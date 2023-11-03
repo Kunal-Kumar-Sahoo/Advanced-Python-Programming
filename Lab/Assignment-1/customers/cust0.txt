@@ -1,0 +1,5 @@
+Customer ID:ABC123
+Product ID:PROD000001
+Review date:2023-08-01
+Review rating:5
+Review text:Great product! I love it.

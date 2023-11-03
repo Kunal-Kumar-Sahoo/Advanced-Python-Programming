@@ -1,0 +1,17 @@
+2023-08-21 09:30:17,876 - INFO - This is an info message
+2023-08-21 09:30:17,876 - WARNING - This is a warning message
+2023-08-21 09:30:17,876 - ERROR - This is an error message
+2023-08-21 09:30:17,876 - CRITICAL - This is a critical message
+2023-08-21 09:30:49,815 - INFO - This is an info message
+2023-08-21 09:30:49,815 - WARNING - This is a warning message
+2023-08-21 09:30:49,815 - ERROR - This is an error message
+2023-08-21 09:30:49,815 - CRITICAL - This is a critical message
+2023-08-21 09:32:20,138 - INFO - This is an info message
+2023-08-21 09:32:20,138 - WARNING - This is a warning message
+2023-08-21 09:32:20,138 - ERROR - This is an error message
+2023-08-21 09:32:20,138 - CRITICAL - This is a critical message
+2023-08-21 09:32:50,876 - DEBUG - This is a debug message
+2023-08-21 09:32:50,876 - INFO - This is an info message
+2023-08-21 09:32:50,876 - WARNING - This is a warning message
+2023-08-21 09:32:50,877 - ERROR - This is an error message
+2023-08-21 09:32:50,877 - CRITICAL - This is a critical message

@@ -1,0 +1,24 @@
+{
+    "student_details": [
+        {
+            "name": "Kunal Sahoo",
+            "email": "kunal.sce21@sot.pdpu.ac.in",
+            "interest": "Deep Learning"
+        },
+        {
+            "name": "Abhinav Sharma",
+            "email": "abhinav.sce21@sot.pdpu.ac.in",
+            "interest": "DevOps"
+        },
+        {
+            "name": "Arpit Mathur",
+            "email": "arpit.mce21@sot.pdpu.ac.in",
+            "interest": "Web Development"
+        },
+        {
+            "name": "Priyank Vaidya",
+            "email": "priyank.vce21@sot.pdpu.ac.in",
+            "interest": "Cloud computing"
+        }
+    ]
+}

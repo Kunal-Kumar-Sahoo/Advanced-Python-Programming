@@ -1,0 +1,17 @@
+Q.1. Who is the inventor of Python?
+a) Bjarne Stroustrup
+b) Dennis Ritchie
+c) Guido van Rossum
+d) Issac Asimov
+
+Q.2. What programming language is said to be the successor of C?
+a) D
+b) C++
+c) B
+d) COBOL
+
+Q.3. Which of the following is the correct extension of Python?
+a) .pl
+b).python
+c) .p
+d) .py

@@ -1,0 +1,6 @@
+wValid reviews: 6
+Invalid reviews: 4
+Product ID	 Average Rating
+PROD000001	 5.0
+PROD000005	 4.0
+PROD000002	 4.0

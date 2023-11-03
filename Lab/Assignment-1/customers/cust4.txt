@@ -1,0 +1,5 @@
+Customer ID:JKL567
+Product ID:PROD000004
+Review date:2023-08-05
+Review rating:2
+Review text:Disappointed with the product. Poor quality.

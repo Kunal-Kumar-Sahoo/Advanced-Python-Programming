@@ -1,0 +1,5 @@
+Customer ID:STU456
+Product ID:PROD0078000
+Review date:2023-08-08
+Review rating:3
+Review text:The product is okay, but the delivery took too long.

@@ -1,0 +1,5 @@
+Customer ID:MNO890
+Product ID:PROD000005
+Review date:2023-08-06
+Review rating:4
+Review text:Good value for money. Recommended.

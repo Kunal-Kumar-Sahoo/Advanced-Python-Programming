@@ -1,0 +1,5 @@
+Customer ID:YZA234
+Product ID:PROD00123456
+Review date:2023-08-10
+Review rating:2
+Review text:Invalid product ID. Can't submit the review.

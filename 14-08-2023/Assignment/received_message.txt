@@ -1,0 +1,5 @@
+Patient Name: Patient
+Date of Birth: 21-07-2003
+Diagnosis: Insomnia
+
+Please review the patient's condition and provide appropriate treatment.

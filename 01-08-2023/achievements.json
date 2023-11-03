@@ -1,0 +1,24 @@
+{
+    "students_list": [
+        {
+            "name": "Arpit Mathur",
+            "id_no": 80,
+            "achievement": "Got shortlisted in GFG Solve for India"
+        },
+        {
+            "name": "Kunal Kumar Sahoo",
+            "id_no": 100,
+            "achievement": "Won 1.5 lakhs rupees in Robofest"
+        },
+        {
+            "name": "Abhinav Sharma",
+            "id_no": 384,
+            "achievement": "Got shortlisted in Flipkart-GRID Challenge"
+        },
+        {
+            "name": "Jay Shah",
+            "id_no": 75,
+            "achievement": "Selected for NCSU Scholarship"
+        }
+    ]
+}

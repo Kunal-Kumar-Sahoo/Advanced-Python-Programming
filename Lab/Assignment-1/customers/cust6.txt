@@ -1,0 +1,5 @@
+Customer ID:PQR123
+Product ID:PROD000006
+Review date:2023-08-07
+Review rating:1
+Review text:

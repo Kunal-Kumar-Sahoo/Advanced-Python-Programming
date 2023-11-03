@@ -1,0 +1,5 @@
+Customer ID:VWX789
+Product ID:PROD0008
+Review date:2023-08-09
+Review rating:5
+Review text:Excellent service and product quality!

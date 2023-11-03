@@ -1,0 +1,5 @@
+Customer ID:DEF789
+Product ID:PROD000003
+Review date:2023-08-03
+Review rating:3
+Review text:Average quality. Not worth the price.

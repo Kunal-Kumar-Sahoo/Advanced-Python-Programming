@@ -1,0 +1,5 @@
+Customer ID:XYZ456
+Product ID:PROD000002
+Review date:2023-08-02
+Review rating:4
+Review text:The product is good, but it could be better.

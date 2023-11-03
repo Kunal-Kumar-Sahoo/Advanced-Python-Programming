@@ -1,0 +1,32 @@
+Task1: students_scores_test.csv
+
+File Operations:
+
+Read the dataset (students_scores_test.csv) into a Pandas DataFrame. Use 'subprocess' to check if the "students_scores_test" file exists in the current directory. If it doesn't exist, log an error message and terminate the task.
+Display rows 3 to 7 of the dataset.
+Save the updated dataset back to a new CSV file (updated_data.csv).
+
+Logging:
+Create a log file to record important events and messages throughout the task.
+Log messages for the following:
+"Checking if 'students_scores_test.csv' file exists..."
+"Dataset read successfully."
+"Saving the updated dataset to 'updated_data.csv'."
+"CSV file is not found."
+
+
+NumPy Basics:
+Use NumPy to find the hightest and lowest scores from the dataset.
+Log the results of these calculations.
+
+Pandas Basics:
+Filter the dataset to display only the rows where scores are greater than 70 with group 'A'.
+
+Scheduling:
+Schedule the entire task to run automatically on 1st date of every month at 00:00 AM.
+Ensure that the logs are appended for each run.
+
+Submit the following:
+Python script (main.py) containing the code for the lab task.
+The dataset file (students_scores_test.csv) with the appended row and the updated file (updated_data.csv).
+Log file (log.txt) containing all the logged messages from your script.
